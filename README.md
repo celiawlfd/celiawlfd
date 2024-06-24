@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - 🎓 Recent graduate from Le Wagon Web Development (batch #1110)
 
-- 🦦 I’m currently working on Ottter, a social media dedicated to cultural recommendation
-
 - 🔥 Fun fact: I love making stuff (mostly clothes)
 
 - 📫 How to reach me: celiawilford@gmail.com
